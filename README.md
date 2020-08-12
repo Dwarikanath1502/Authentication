@@ -18,11 +18,11 @@ This project shows authentication using Email and Password in Firebase.
     * Firebase
     * React-Navigation
 
-4. Installing
+4. Getting/Downloading Source File
     * You can use GIT Clone or,
     * Click here,       https://github.com/Dwarikanath1502/Authentication.git
 
-##### This project is tested on Android Emulator as well as on actual android device.
+### This project is tested on Android Emulator as well as on actual android device.
 
 ###### Waiting for Collaborator...
 
