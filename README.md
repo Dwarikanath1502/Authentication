@@ -26,4 +26,15 @@ This project shows authentication using Email and Password in Firebase.
 
 #### **Waiting for Collaborator...**
 
+## NOTE
+*This project use email and password authenticaation method using Firebase service by Google*
+    
+### What we are doing in this Project
+
+**1. SignUp in an Account**
+
+**2. Singing In an Account**
+
+**3. SingOut from Account**
+
 
