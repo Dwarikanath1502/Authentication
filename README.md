@@ -20,7 +20,7 @@ This project shows authentication using Email and Password in Firebase.
 
 4. Installing
     * You can use GIT Clone or,
-    * Click here,
+    * Click here,       https://github.com/Dwarikanath1502/Authentication.git
 
 ##### This project is tested on Android Emulator as well as on actual android device.
 
