@@ -102,8 +102,8 @@ const styles = StyleSheet.create({
     },
     logoContainer: {
       alignItems: "center",
-      marginTop: 100,
-      marginBottom: 100
+      marginTop: 10,
+      marginBottom: 10
     },
     form: {
       padding: 20,
