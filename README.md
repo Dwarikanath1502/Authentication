@@ -23,8 +23,10 @@ This project shows authentication using Email and Password in Firebase.
     * Click here,       https://github.com/Dwarikanath1502/Authentication.git
 
 ## Releated Images
+<<<<<<< HEAD
 ![Image](./Readme_Images/1.png = 250 * 30)
 <img src="./Readme_Images/2.png" alt="drawing" width="100"/>
+
 
 
 ### This project is tested on Android Emulator as well as on actual android device.
