@@ -23,7 +23,7 @@ This project shows authentication using Email and Password in Firebase.
     * Click here,       https://github.com/Dwarikanath1502/Authentication.git
 
 ## Releated Images
-<<<<<<< HEAD
+
 <img src="./Readme_Images/1.png" alt="drawing" height= "80%"width="250"/>
 <img src="./Readme_Images/2.png" alt="drawing" height= "80%"width="250"/>
 
