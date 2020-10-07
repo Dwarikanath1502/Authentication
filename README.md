@@ -34,11 +34,17 @@ Format: ![1.png]
 *This project use email and password authenticaation method using Firebase service by Google*
     
 ### What we are doing in this Project
+<<<<<<< HEAD
 
 **1. SignUp in an Account**
 
 **2. Singing In an Account**
 
 **3. SingOut from Account**
+=======
+**1. SignUp in an Account**
+**1. Singing In an Account**
+**1. SingOut from Account**
+>>>>>>> 860ee617693dd27f3da2b8efd15d68c4cbf8b547
 
 
