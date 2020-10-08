@@ -39,7 +39,7 @@ export default class SignupScreen extends Component {
 
     };
 
-
+    
     render() {
         return (
             <KeyboardAvoidingView style = {styles.container}
