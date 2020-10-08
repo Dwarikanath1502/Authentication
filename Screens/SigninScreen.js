@@ -42,7 +42,7 @@ export default class SigninScreen extends Component {
                    <Image   
                     source = {require('../assets/logo.png')}
                    />
-                   <Text>Learn code Online</Text>
+                   <Text>COMPANY NAME</Text>
                </View>
                <Form style = {styles.form}>
                    <Item floatingLabel>
