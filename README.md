@@ -24,7 +24,7 @@ This project shows authentication using Email and Password in Firebase.
 
 ## Releated Images
 
-<img src="./Readme_Images/1.png" width=40>
+<img src="./Readme_Images/1.png" width=200 height=400>
 <!-- ![Image](./Readme_Images/1.png) -->
 
 
