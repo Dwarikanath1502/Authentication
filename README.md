@@ -40,7 +40,7 @@ This project shows authentication using Email and Password in Firebase.
 #### **Waiting for Collaborator...**
 
 ## NOTE
-*This project use email and password authenticaation method using Firebase service by Google*
+*This project use email and password authentication method using Firebase service by Google*
     
 ### What we are doing in this Project
 
